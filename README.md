@@ -1,1 +1,2 @@
 # Search-And-Rescue-Drones
+is an open-source project developing a 3D-printable, ESP32-S3 powered drone designed for coordinated swarm operations. Each unit communicates with its peers to cover expansive areas efficiently, integrating LiDAR, cameras, and TinyML AI layers to generate thermal imaging overlays and detect heat signatures in real time. This project combines traditional DIY craftsmanship with modern AI and sensor technology, making advanced aerial surveillance and rapid deployment accessible to hobbyists, researchers, and innovators alike.
